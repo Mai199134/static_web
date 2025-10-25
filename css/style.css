@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2025/10/18/13/17/butterfly-9902097_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: brown;
+}
+
+.nombre {
+    font-size: 50px;
+}
+
+.nombre:hover {
+    color: aquamarine;
+}
+
+#mensaje {
+    font-size: 25px;
+}
+
+.imagen_principal {
+    border-radius: 5px;
+    box-shadow: 1em;
+}
+
+.imagen_principal:hover {
+    border-style: solid;
+    border-color: aquamarine;
+}
